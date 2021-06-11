@@ -1,0 +1,2 @@
+C:\Users\Adil\source\repos\summer_internship\Debug\summer_internship.exe
+C:\Users\Adil\source\repos\summer_internship\Debug\summer_internship.pdb
